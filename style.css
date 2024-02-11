@@ -1,13 +1,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Loved+by+the+King&display=swap');
 
-.material-symbols-outlined {
-  font-variation-settings:
-  'FILL' 0,
-  'wght' 400,
-  'GRAD' 0,
-  'opsz' 24
-}
 
 * {
     margin: 0;
@@ -27,6 +20,7 @@
     top: 60px;
     left: 70;
     font-family: 'Loved by the King', cursive;
+    color: cyan;
   }
   
   
